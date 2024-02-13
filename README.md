@@ -4,7 +4,7 @@
 
 This GitHub repository contains a Python-based GUI application for face obfuscation in images. It leverages OpenCV for face detection and offers functionalities like blurring faces, adding noise, and adjusting the intensity of these effects. The GUI is built using CustomTkinter and Tkinter, providing an intuitive interface for users to upload images, detect and obfuscate faces, and revert changes.
 
-#Features
+# Features
 Face detection and obfuscation
 Adjustable blur and noise intensity
 User-friendly GUI interface
@@ -27,7 +27,7 @@ Use the GUI buttons to upload an image, detect faces, apply blur or noise, and a
 # Contributing
 Contributions to improve the tool or add new features are welcome. Please follow the standard GitHub pull request process.
 
-#License
+# License
 This project is open-source and available under MIT License.
 
 Ensure to replace blur_noise.py with the actual script name and check for any specific version requirements for the libraries used
